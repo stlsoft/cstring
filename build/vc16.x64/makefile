@@ -6,7 +6,7 @@
 #           on the Win32 platform
 #
 # Created:	16th December 2007
-# Updated:	20th February 2021
+# Updated:	19th March 2021
 #
 ############################################################################
 
@@ -28,7 +28,7 @@
 # project & compiler version
 
 COMP_TAG			=	vc16
-ARCH_TAG            =   
+ARCH_TAG            =   .x64
 OS_TAG				=   
 PROJ_TAG			=	cstring
 PROJ_VER_MAJOR		=	4
